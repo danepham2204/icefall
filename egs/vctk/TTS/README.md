@@ -9,6 +9,8 @@ Generates natural-sounding speech with good prosody and voice quality.
 
 The notebook uses the icefall implementation of VITS (generator + discriminator).
 
+![alt text](image.png)
+
 # Data Preparation
 
 Run `prepare.sh` to download and prepare the data. All stages are run by default.
