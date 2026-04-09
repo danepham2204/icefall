@@ -45,7 +45,7 @@ export CUDA_VISIBLE_DEVICES="0,1,2,3"
   --num-epochs 1000 \
   --start-epoch 1 \
   --exp-dir vits/exp \
-  --tokens data/tokens.txt
+  --tokens data/tokens.txt \
   --max-duration 350
 ```
 
